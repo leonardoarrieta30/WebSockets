@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=kDv94EwPH0w
 **Extensión de Chrome para pruebas**
 chrome-extension://omalebghpgejjiaoknljcfmglgbpocdp/index.html
 
+**Codigo para arrancar servidor: adonis serve --dev**
+
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
