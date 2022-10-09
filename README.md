@@ -1,3 +1,12 @@
+#Videos de referencia conectar con Angular para creación de un chat
+1. Parte 1
+https://www.youtube.com/watch?v=HZgZP0MvuU8
+2. Parte 2
+https://www.youtube.com/watch?v=kDv94EwPH0w
+
+**Extensión de Chrome para pruebas**
+chrome-extension://omalebghpgejjiaoknljcfmglgbpocdp/index.html
+
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
